@@ -14,8 +14,6 @@ This is a simple quiz game implemented in C, where players can test their knowle
 - [Usage](#usage)
 - [Features](#features)
 - [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ### Installation
 To get started with the quiz game, follow these steps:
